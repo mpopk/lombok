@@ -16,7 +16,7 @@ public class TasksApplication {
 
         System.out.println(id + " " + title + " " + content);
 
-        //SpringApplication.run(TasksApplication.class, args);
+        SpringApplication.run(TasksApplication.class, args);
 
     }
 }
